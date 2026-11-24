@@ -1,0 +1,6 @@
+body{margin:0;background:#fdf6e3;color:#3a2a1c;font:17px/1.6 system-ui,-apple-system,Segoe UI,sans-serif}
+main{max-width:720px;margin:0 auto;padding:40px 22px}
+h1{font-size:2rem;margin:.2em 0}h2{font-size:1.15rem;margin-top:1.8em}
+a{color:#2f6f8f}.mute{color:#7a6a58;font-size:.9rem}
+.hero{text-align:center}.hero img{width:160px;height:160px;border-radius:50%}
+nav{margin-top:2.5em;display:flex;gap:18px;flex-wrap:wrap;font-size:.95rem}
